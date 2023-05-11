@@ -3,6 +3,7 @@
 Use it at your own risk. No one can get your coins back if you make a mistake.
 
 The .ods-file for Libre Office (Linux)
+
 The .xlsx-file for MS Excel (tested with Excel 2021 and Excel 365)
 
 A Worksheet for testing the Distribution of 23 Numbers between 1 and 2048.
