@@ -1,6 +1,6 @@
-# 23-Numbers-Test-Standard-Distribution v0.1 (running process)
+# 23-Numbers-Test-Standard-Distribution
 
-Its v0.1 for several Tests. Use it at your own risk. No one can get your coins back if you make a mistake.
+Use it at your own risk. No one can get your coins back if you make a mistake.
 
 A Worksheet for testing the Distribution of 23 Numbers between 1 and 2048.
 
