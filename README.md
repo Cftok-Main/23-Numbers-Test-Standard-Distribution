@@ -1,5 +1,8 @@
 # 23-Numbers-Test-Standard-Distribution
 
+Dont use v0.2.06. Theres a major bug, some words in wordlist are at wrong place. v0.2.06 is deleted and 0.2.07 is corrected release. 
+
+
 A Worksheet for checking the Distribution of 23 Numbers between 1 and 2048.
 
 Use it at your own risk. No one can get your coins back if you make a mistake.
